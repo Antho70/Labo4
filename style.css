@@ -1,0 +1,17 @@
+body{
+
+    background-image: url("film.png");
+    background-size: cover;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+
+}
+
+h1{
+    color: white;
+}
+
+.Francis,.James,.Steven,.George{
+
+color: yellowgreen;
+font-size: 25px;
+}
