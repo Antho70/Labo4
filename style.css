@@ -3,6 +3,7 @@ body{
     background-image: url("film.png");
     background-size: cover;
     font-family: "Verdana", "Times New Roman", sans-serif;
+    color: white;
 
 }
 
@@ -10,8 +11,25 @@ h1{
     color: white;
 }
 
-.Francis,.James,.Steven,.George{
+.Producteurs{
 
 color: yellowgreen;
 font-size: 25px;
+list-style: none;
+}
+
+
+
+ol{
+    list-style-type: upper-latin;
+}
+.ul1,.ul2,.ul3,.ul4,.ul5,.ul6,.ul7,.ul8,.ul9{
+
+    list-style-type: disc;
+}
+
+.Film
+{
+  color: white;  
+  font-size: 15px;
 }
